@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.481.0",
+    "@aws-sdk/lib-dynamodb": "^3.481.0",
+    "@aws-sdk/util-dynamodb": "^3.481.0",
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.16.16",
+    "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.4"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "eslint": "^8",
